@@ -17,46 +17,39 @@ const Experience: React.FC<{}> = () => {
               src={"/WebHR.svg"}
               height={30}
               width={30}
-              alt={"Ibrahim Memon - UX Experience"}
+              alt={"Darshan Shetty - SDE"}
             />
             <p className="text-gray-300 ">
-              <span className="font-semibold">WebHR /</span> Software Engineer
+              <span className="font-semibold"></span> Software Engineer - DregalI Pvt Ltd.
             </p>
           </div>
           <p className="text-gray-300 md:pt-0 pt-3">
-            May 2022 - Present, United States
+            Sep 2023 - Present,
           </p>
         </div>
 
         <p className="text-gray-300 pt-5">
-          Currently, I am working on WebHR Mobile Application, WebHR is a Cloud
-          based Social HR Software for SMEs by Verge Systems Inc. WebHR is
-          currently used in over 160 countries world wide by thousands of
-          organizations to manage HR, As a React.js developer with 2.5 year of
-          experience, I have a strong foundation in creating dynamic and
-          responsive mobile and web applications.
-          <br />
-          <br />
-          My experience with React Native has allowed me to develop
-          cross-platform mobile applications that run seamlessly on both iOS and
-          Android platforms. Additionally, my proficiency in React.js has
-          equipped me with the skills to create fast, scalable, and dynamic web
-          pages with excellent user experiences. I have a deep understanding of
-          component-based architecture and state management, and I am
-          well-versed in the latest web development trends and technologies.
+          I am a dedicated software engineer currently working with a Non-Banking Financial Company (NBFC), where I focus on enhancing technology-driven solutions. My experience includes conducting data migration from Oracle to MySQL using Python scripts to optimize data management and performance. I have developed APIs using Java Servlets to enable seamless communication between various application components and am actively involved in front-end development using React to deliver engaging user interfaces and experiences.
+          In addition, I am expanding my expertise in Node.js (Express) to streamline API integration and have created and executed unit tests to ensure robust and error-free APIs. With a strong foundation in MySQL, I specialize in database design, querying, and optimization. I also possess basic knowledge of AWS services, which I leverage for deploying and managing applications effectively. My passion lies in crafting elegant, efficient, and user-centric solutions while continuously advancing my technical skill set.
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React Native
+            ReactJS
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React
+            HTML/CSS
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             JavaScript
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             Typescript
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            NodeJS
+          </div>
+          <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Java
           </div>
         </div>
       </div>

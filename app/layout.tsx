@@ -10,30 +10,22 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://ibiimemon.com/"),
-  title: "Ibrahim Memon - SWE | IXD | UX - Developer Portfolio",
+  title: "Darshan N Shetty - SDE",
   description:
-    "Developer Portfolio of Frontend & Mobile App Developer from Pakistan with 3+ years of expertise. Senior Software Engineer. Specializing mobile apps, UX, and JavaScript technologies.",
+    "Developer Portfolio.",
   keywords: [
     "Developer",
     "Portfolio",
     "Developer Portflio",
-    "Ibrahim Memon",
-    "Ibrahim",
-    "IbiiMemon",
-    "IbrahimMemon",
-    "Ibrahim_Memon",
-    "Next.js",
+    "React.js",
     "ReactNative",
     "Android",
   ],
   openGraph: {
-    title: "Ibrahim Memon - SWE | IXD | UX",
+    title: "Darshan N Shetty - SDE",
     description:
-      "Frontend & Mobile App Developer from Pakistan with 3+ years of expertise. Senior Software Engineer. Specializing mobile apps, UX, and JavaScript technologies.",
+      "Full Stack Developer. Specializing web applications, React JS and JavaScript technologies.",
     images: "/OpenGraph.jpg",
-  },
-  alternates: {
-    canonical: "https://ibiimemon.com/",
   },
 };
 export default function RootLayout({
@@ -50,12 +42,11 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "http://schema.org",
               "@type": "Person",
-              name: "Ibrahim Memon",
+              name: "Darshan Shetty",
               jobTitle: "Software Engineer",
-              url: "https://ibiimemon.com",
               sameAs: [
-                "https://www.linkedin.com/in/ibrahimmemonn/",
-                "https://github.com/ibrahimmemonn",
+                "https://www.linkedin.com/in/darshan-shetty-6b4b9a175/",
+                "https://github.com/DarshanShetty3",
               ],
             }),
           }}
