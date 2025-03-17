@@ -16,7 +16,6 @@ const Banner: React.FC<{}> = () => {
             alt="Darshan Shetty"
           />
         </div>
-
         <div className="flex flex-col gap-6 mt-10 cursor-pointer animate-bounce tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
           Darshan N Shetty!
         </div>
