@@ -20,11 +20,11 @@ const Experience: React.FC<{}> = () => {
               alt={"Darshan Shetty - SDE"}
             />
             <p className="text-gray-300 ">
-              <span className="font-semibold"></span> Software Engineer - DregalI Pvt Ltd.
+              <span className="font-semibold"></span> Software Engineer - Dregal I Pvt Ltd.
             </p>
           </div>
           <p className="text-gray-300 md:pt-0 pt-3">
-            Sep 2023 - Present,
+            July 2023 - Present,
           </p>
         </div>
 
@@ -50,6 +50,45 @@ const Experience: React.FC<{}> = () => {
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             Java
+          </div>
+        </div>
+      </div>
+      <div className=" container mx-auto 2xl ">
+        <div className="md:flex md:flex-row md:justify-between pt-5">
+          <div className="flex items-center gap-3">
+            <Image
+              src={"/WebHR.svg"}
+              height={30}
+              width={30}
+              alt={"Darshan Shetty - SDE"}
+            />
+            <p className="text-gray-300 ">
+              <span className="font-semibold"></span> Trainee Software Developer - Credzpay fintech Pvt Ltd.
+            </p>
+          </div>
+          <p className="text-gray-300 md:pt-0 pt-3">
+            April 2023 - July 2023,
+          </p>
+        </div>
+        <p className="text-gray-300 pt-5">
+          Developed a cross-platform mobile application using React Native, demonstrating expertise in Android app
+          development and optimizing performance for diverse devices.
+          • Spearheaded front-end development for a high-performance website utilizing react.js, contributing to the
+          design and implementation of scalable front-end architecture
+          • Implemented responsive design principles, enhancing usability and compatibility across multiple screen sizes
+          and devices.
+          • Collaborated with the design team to ensure seamless integration of UI/UX elements, maintaining consistency
+          and visual appeal.
+        </p>
+        <div className="flex-col flex sm:flex-row ">
+          <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            React Native
+          </div>
+          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Mobile Application Development
+          </div>
+          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            JavaScript
           </div>
         </div>
       </div>
