@@ -67,7 +67,7 @@ const Experience: React.FC<{}> = () => {
             </p>
           </div>
           <p className="text-gray-300 md:pt-0 pt-3">
-            December 2022 - July 2023,
+            April 2023 - July 2023,
           </p>
         </div>
         <p className="text-gray-300 pt-5">
