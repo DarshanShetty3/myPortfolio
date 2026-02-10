@@ -20,7 +20,7 @@ const Experience: React.FC<{}> = () => {
               alt={"Darshan Shetty - SDE"}
             />
             <p className="text-gray-300 ">
-              <span className="font-semibold"></span> Software Engineer - Dregal I Pvt Ltd.
+              <span className="font-semibold"></span> Software Development Engineer L2 - Dregal I Pvt Ltd.
             </p>
           </div>
           <p className="text-gray-300 md:pt-0 pt-3">
