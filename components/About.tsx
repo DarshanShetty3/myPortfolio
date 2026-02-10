@@ -18,7 +18,7 @@ const About: React.FC<{}> = () => {
           <p className="text-gray-300 text-center ">
             As a passionate software engineer, I thrive on the intricate dance
             between logic and creativity. Currently immersed in the dynamic world
-            of Web Development, my expertise centers around ReactJS, where I seamlessly
+            of Web Development, my expertise centers around ReactJS and Java, where I seamlessly
             blend technology with innovation.
             <br />
             <br />

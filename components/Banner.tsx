@@ -34,8 +34,9 @@ const Banner: React.FC<{}> = () => {
           />
         </div>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Software Engineer with a focus on React.Js development,
-          dedicated to crafting elegant and user-friendly web applications.
+          Passionate Software Engineer with 3 years of experience in full-stack
+          development, dedicated to crafting elegant and user-friendly web
+          applications.
         </p>
         <div className="text-md flex justify-center mt-10">
           <br />
